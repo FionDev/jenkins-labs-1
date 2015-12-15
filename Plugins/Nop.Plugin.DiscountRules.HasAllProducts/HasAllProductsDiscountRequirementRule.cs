@@ -17,6 +17,7 @@ namespace Nop.Plugin.DiscountRules.HasAllProducts
         public HasAllProductsDiscountRequirementRule(ISettingService settingService)
         {
             this._settingService = settingService;
+
         }
 
         /// <summary>
