@@ -12,7 +12,7 @@ namespace Nop.Plugin.DiscountRules.HasAllProducts
 {
     public partial class HasAllProductsDiscountRequirementRule : BasePlugin, IDiscountRequirementRule
     {
-        //private readonly ISettingService _settingService;
+        private readonly ISettingService _settingService;
 
         public HasAllProductsDiscountRequirementRule(ISettingService settingService)
         {
