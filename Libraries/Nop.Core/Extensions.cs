@@ -8,6 +8,10 @@ namespace Nop.Core
         {
             return default(T).Equals(value.GetValueOrDefault());
 
+
+
+
+
         }
     }
 }
