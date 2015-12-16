@@ -21,6 +21,7 @@ namespace Nop.Plugin.DiscountRules.HasAllProducts
 
 
 
+
         }
 
         /// <summary>
