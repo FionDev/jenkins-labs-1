@@ -8,6 +8,7 @@ namespace Nop.Core
         /// </summary>
         public static string CurrentVersion 
         {
+
             get
             {
                 return "3.70";
